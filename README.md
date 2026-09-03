@@ -42,27 +42,21 @@ through Data Structures & Algorithms.
 
 ## 🚀 About Me
 
-<div align="center">
-
-| 👨‍💻 | About |
-| :--- | :--- |
-| 🎓 | B.Tech in Computer Science & Engineering at Lovely Professional University |
-| 💻 | Full-stack developer working with the **MERN stack** |
-| 🔌 | Building **REST APIs** and data-driven web applications |
-| 🤖 | Exploring **AI/ML and Retrieval-Augmented Generation (RAG)** |
-| 🧩 | Practicing **Data Structures & Algorithms in C++** |
-| 🏆 | Solved **100+ DSA problems on LeetCode** |
-| ☁️ | Learning **Cloud & DevOps** |
-| 🐳 | Working with **Docker** |
-| 🧠 | Strengthening problem-solving and system design fundamentals |
-
-</div>
+- 🎓 B.Tech in Computer Science & Engineering at Lovely Professional University
+- 💻 Full-stack developer working with the **MERN stack**
+- 🔌 Building **REST APIs** and data-driven web applications
+- 🤖 Exploring **AI/ML and Retrieval-Augmented Generation (RAG)**
+- 🧩 Practicing **Data Structures & Algorithms in C++**
+- 🏆 Solved **100+ DSA problems on LeetCode**
+- ☁️ Learning **Cloud & DevOps**
+- 🐳 Working with **Docker**
+- 🧠 Strengthening problem-solving and system design fundamentals
 
 > 🎯 **Goal:** Build useful software, solve challenging problems, and continuously learn new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -160,6 +154,7 @@ Campus placement management system designed to manage students, companies, drive
 
 `React`  
 `Node.js`  
+`Express`  
 `MongoDB`  
 `JWT`
 
@@ -240,11 +235,12 @@ View Repository →
 
 <div align="center">
 
-<!-- LIVE CONTRIBUTIONS + CURRENT STREAK + LONGEST STREAK -->
+<!-- CUSTOM LIVE GITHUB STATS -->
 
 <img
-src="https://streak-stats.demolab.com?user=parthaksingh&theme=tokyonight&hide_border=true"
-alt="GitHub Streak Stats"
+src="./github-stats/stats.svg"
+alt="Parthak Kumar Singh GitHub Statistics"
+width="850"
 />
 
 <br><br>
@@ -254,7 +250,7 @@ alt="GitHub Streak Stats"
 <img
 height="165"
 src="https://github-readme-stats.vercel.app/api?username=parthaksingh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
-alt="Parthak's GitHub Stats"
+alt="GitHub Stats"
 />
 
 <img
@@ -292,7 +288,7 @@ I regularly practice Data Structures & Algorithms using C++ and focus on improvi
 
 ---
 
-## 💻 Coding Profiles
+# 💻 Coding Profiles
 
 <div align="center">
 
