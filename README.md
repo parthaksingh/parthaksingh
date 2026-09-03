@@ -100,11 +100,6 @@ through Data Structures & Algorithms.
 
 # ⭐ Featured Projects
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
 ### 💻 Code Lab
 
 **Online Code Execution Platform**
@@ -119,48 +114,30 @@ A web-based platform that allows users to write, compile, and execute code throu
 - 🐳 Docker environment
 - 🌐 Browser workflow
 
-**Tech**
+**Tech:** `JavaScript` · `Node.js` · `Docker`
 
-`JavaScript`  
-`Node.js`  
-`Docker`
+🔗 [View Repository](https://github.com/parthaksingh/Code-Lab-online-code-execution-platform)
 
-<br>
-
-<a href="https://github.com/parthaksingh/Code-Lab-online-code-execution-platform">
-View Repository →
-</a>
-
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🎓 NextOffer
 
 **PlaceSmart**
 
-Campus placement management system designed to manage students, companies, drives, eligibility, interviews and recruitment workflows.
+Campus placement management system for students and administrators.
 
 **Features**
 
 - 👨‍🎓 Student management
-- 🔐 JWT & bcrypt
+- 🔐 JWT & bcrypt authentication
 - 📊 Role-based dashboards
 - ✅ Eligibility checks
 - 🏢 Company management
 - 📋 Interview tracking
 
-**Tech**
+**Tech:** `React` · `Node.js` · `Express` · `MongoDB` · `JWT`
 
-`React`  
-`Node.js`  
-`Express`  
-`MongoDB`  
-`JWT`
-
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🤖 RAG System Studio
 
@@ -172,50 +149,36 @@ A Retrieval-Augmented Generation system for document-based question answering.
 - 🧩 Document chunking
 - 🔍 Semantic retrieval
 - 📚 Source citations
-- 🤖 RAG QA
+- 🤖 RAG question answering
 - 🧪 RAG simulator
 - 🛡️ Anti-hallucination
 
-**Tech**
+**Tech:** `Python` · `RAG` · `Semantic Search` · `AI`
 
-`Python`  
-`RAG`  
-`Semantic Search`  
-`AI`
-
-<br>
-
-<a href="https://github.com/parthaksingh/RAG-system-studio">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
+🔗 [View Repository](https://github.com/parthaksingh/RAG-system-studio)
 
 ---
 
-## 🤖 ContextIQ
+### 🤖 ContextIQ
 
 Full-stack RAG application focused on semantic search and reliable document-based answers.
 
-### Key Features
+**Features**
 
 - 🔍 Browser-side semantic search
-- 🧠 MiniLM embeddings
+- 🧠 all-MiniLM-L6-v2 embeddings
 - 📚 Source and page citations
 - 🛡️ Anti-hallucination safeguards
 
-**Tech:** `RAG` · `all-MiniLM-L6-v2` · `Hugging Face`
+**Tech:** `RAG` · `Hugging Face` · `Semantic Search`
 
 ---
 
-## 📊 Placement Management System
+### 📊 Placement Management System
 
-Web-based application focused on managing and organizing placement-related information.
+Web-based application for managing placement information.
 
-### Features
+**Features**
 
 - 👨‍🎓 Student management
 - 🏢 Company information
@@ -225,9 +188,7 @@ Web-based application focused on managing and organizing placement-related infor
 
 **Tech:** `JavaScript` · `HTML` · `CSS`
 
-<a href="https://github.com/parthaksingh/placement-management-system">
-View Repository →
-</a>
+🔗 [View Repository](https://github.com/parthaksingh/placement-management-system)
 
 ---
 
@@ -235,28 +196,10 @@ View Repository →
 
 <div align="center">
 
-<!-- CUSTOM LIVE GITHUB STATS -->
-
 <img
 src="./github-stats/stats.svg"
 alt="Parthak Kumar Singh GitHub Statistics"
 width="850"
-/>
-
-<br><br>
-
-<!-- GITHUB PROFILE STATS -->
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=parthaksingh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
-alt="GitHub Stats"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthaksingh&layout=compact&hide_border=true&theme=tokyonight"
-alt="Top Languages"
 />
 
 </div>
@@ -310,18 +253,14 @@ I regularly practice Data Structures & Algorithms using C++ and focus on improvi
 
 # 🏆 Achievements
 
-<div align="center">
-
 | Achievement | Details |
 | :--- | :--- |
 | 🧩 DSA | Solved **100+ problems** on LeetCode |
-| 🥉 Hackathon | **Semifinalist (6th place)** in a university-level hackathon |
-
-</div>
+| 🏆 Hackathon | **Semifinalist, 6th place** in a university hackathon |
 
 ---
 
-# 📜 Certifications & Training
+# 📜 Certifications
 
 - 🤖 **AI & ML Real-World Problem Solving using Python**  
   NumPy · Pandas · scikit-learn · **2025**
@@ -352,14 +291,7 @@ I regularly practice Data Structures & Algorithms using C++ and focus on improvi
 
 <div align="center">
 
-| 🧠 | Area |
-| :---: | :--- |
-| 🧩 | Advanced Data Structures & Algorithms |
-| 🌐 | Full-Stack Development |
-| 🤖 | AI & RAG Systems |
-| 🔍 | Semantic Search & Retrieval |
-| ☁️ | Cloud & DevOps |
-| 🏗️ | System Design Fundamentals |
+`Advanced DSA` · `Full Stack Development` · `AI & RAG` · `Semantic Search` · `Cloud & DevOps` · `System Design`
 
 </div>
 
@@ -386,12 +318,3 @@ I regularly practice Data Structures & Algorithms using C++ and focus on improvi
 ⭐ **Thanks for visiting my profile!**
 
 </div>
-
----
-
-<div align="center">
-
-### 🎯 What I'm Working Toward
-
-```text
-Build → Learn → Solve → Improve → Repeat
